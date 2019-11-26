@@ -39,7 +39,7 @@ export class AdminNavbarComponent implements OnInit {
   logout() {
     localStorage.clear();
     this.router.navigate(["home"]);
-    alert("route");
+    alert("Logged out successfully");
   }
   
 }

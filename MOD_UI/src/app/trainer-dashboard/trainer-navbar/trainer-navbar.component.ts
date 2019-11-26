@@ -41,7 +41,7 @@ export class TrainerNavbarComponent implements OnInit {
   logout() {
     localStorage.clear();
     this.router.navigate(["home"]);
-    alert("route");
+    alert("Logged out Successfully");
   }
   
 }
