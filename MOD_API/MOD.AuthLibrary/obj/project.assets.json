@@ -5095,11 +5095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.AuthLibrary\\MOD.AuthLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.AuthLibrary\\MOD.AuthLibrary.csproj",
       "projectName": "MOD.AuthLibrary",
-      "projectPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.AuthLibrary\\MOD.AuthLibrary.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.AuthLibrary\\MOD.AuthLibrary.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.AuthLibrary\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.AuthLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5115,8 +5115,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
+            "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
             }
           }
         }

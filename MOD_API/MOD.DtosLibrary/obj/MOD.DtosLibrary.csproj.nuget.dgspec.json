@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {}
+    "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
+    "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
         "projectName": "MOD.DtosLibrary",
-        "projectPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.DtosLibrary\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.DtosLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

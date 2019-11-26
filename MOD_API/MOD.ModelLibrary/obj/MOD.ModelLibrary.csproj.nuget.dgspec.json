@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {}
+    "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+    "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
         "projectName": "MOD.ModelLibrary",
-        "projectPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

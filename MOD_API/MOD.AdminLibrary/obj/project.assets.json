@@ -5041,11 +5041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.AdminLibrary\\MOD.AdminLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.AdminLibrary\\MOD.AdminLibrary.csproj",
       "projectName": "MOD.AdminLibrary",
-      "projectPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.AdminLibrary\\MOD.AdminLibrary.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.AdminLibrary\\MOD.AdminLibrary.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.AdminLibrary\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.AdminLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5061,11 +5061,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj"
+            "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
+            "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\802380_MOD\\MOD_API\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
             }
           }
         }
